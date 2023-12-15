@@ -55,7 +55,7 @@
                 <param name="Ссылка на профиль врача">https://proctolog-laser.ru/tatarinov_konstantin</param>
                 <param name="Город клиники">г. Москва</param>
                 <param name="Адрес клиники">ул.8 Марта 6а стр.1</param>
-                <param name="Название клиники">Проктология Татаринов К.Е.</param>
+                <param name="Название клиники">Н-clinic</param>
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Телефон для записи">+79264465779</param> <!--Можно подменник аггрегатора-->
             </offer>
@@ -90,7 +90,7 @@
                 <param name="Ссылка на профиль врача">https://proctolog-laser.ru/tatarinov_konstantin</param>
                 <param name="Город клиники">г. Жуковский</param>
                 <param name="Адрес клиники">Королева д.6 стр.1</param>
-                <param name="Название клиники">Проктология Татаринов К.Е.</param>
+                <param name="Название клиники">Клиника RealMedic</param>
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Телефон для записи">+79264465779</param> <!--Можно подменник аггрегатора-->
             </offer>
